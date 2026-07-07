@@ -1109,7 +1109,7 @@ blockquote {
   }
 
   .site-header {
-    inset: 10px;
+    inset: 10px 10px auto;
   }
 
   .brand-mark {
